@@ -1,0 +1,27 @@
+{
+    "biomes": [
+        {
+            "biomeName": "Cave",
+            "introduction": "I can barely see anything! If only humans used echolocation\u2026"
+        },
+        {
+            "biomeName": "Ocean",
+            "introduction": "Wow, aren\u2019t the depths mesmerizing! \nOur oceans here at the ZRA are more than 50 miles across and almost 2 miles deep!"
+        }
+    ],
+    "zraName": "MyZRA",
+    "roboanimals": [
+        {
+            "coolFact": "He loves to swim!",
+            "biome": "Ocean",
+            "name": "Bill",
+            "length": 8
+        },
+        {
+            "coolFact": "He loves to hunt!",
+            "biome": "Cave",
+            "name": "TomCat",
+            "length": 24
+        }
+    ]
+}
