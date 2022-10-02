@@ -1,0 +1,107 @@
+{
+    "biomes": [
+        {
+            "biomeName": "Cave",
+            "introduction": "I can barely see anything! If only humans used echolocation\u2026"
+        },
+        {
+            "biomeName": "Grassland",
+            "introduction": "Isn\u2019t all of this lush grassland beautiful?! \nIt took the ZRA over 2 years to import all of this grass from various time periods!"
+        },
+        {
+            "biomeName": "Ocean",
+            "introduction": "Wow, aren\u2019t the depths mesmerizing! \nOur oceans here at the ZRA are more than 50 miles across and almost 2 miles deep!"
+        },
+        {
+            "biomeName": "Tropic",
+            "introduction": "It's so humid here! \nThanks to our industry leading humidifiers here at the ZRA, all of our robotic animals enjoy an artificial environment superior to the real thing! \nMake sure to stay hydrated!"
+        }
+    ],
+    "zraName": "MyZRA",
+    "roboanimals": [
+        {
+            "coolFact": "They are one of the smallest known robo-animals, but make no mistake, they are fierce nocturnal predators! \nThey have a GPS installed behind their eyes so that they can precisely navigate the grasslands! \nNow that's no small feat!",
+            "biome": "Grassland",
+            "name": "AshOwl",
+            "length": 5
+        },
+        {
+            "coolFact": "Did you know that they are the oldest know robo-animal? \nThey were originally designed for military use! But now we get to observe them here! \nA little piece of history for you!",
+            "biome": "Tropic",
+            "name": "BoltButterfly",
+            "length": 2
+        },
+        {
+            "coolFact": "Their large frame allows them to produce an absurdly loud echolocation sound. \nIf you need earplugs at any point, let us know!",
+            "biome": "Cave",
+            "name": "BrunoBat",
+            "length": 4000
+        },
+        {
+            "coolFact": "Did you know that OmegaOrcas can shoot laser beams from their blowholes? \nHow cool!",
+            "biome": "Ocean",
+            "name": "OmegaOrca",
+            "length": 200000
+        },
+        {
+            "coolFact": "They emit large amounts of energy, but are completely safe to humans. \nIf you need to charge a device, you know where to go!",
+            "biome": "Tropic",
+            "name": "QuantumKiwi",
+            "length": 10
+        },
+        {
+            "coolFact": "While that may seem big for a frog, they prefer the larger frame to scare off predators! \nJust make sure you do not touch them. They are poisonous!",
+            "biome": "Tropic",
+            "name": "RadionFrog",
+            "length": 1000
+        },
+        {
+            "coolFact": "They are a little rough around the edges, but they are super friendly. \nIf you place them in a case, they make great pets!",
+            "biome": "Cave",
+            "name": "SlicerSalamander",
+            "length": 10
+        },
+        {
+            "coolFact": "SputnikSharks are master nocturnal hunters, so be sure not to get too close to the edge. \nWatch your step!",
+            "biome": "Ocean",
+            "name": "SputnikShark",
+            "length": 80000
+        },
+        {
+            "coolFact": "Did you know that they are the fastest marine robo-animal to date? \nMake sure you don\u2019t blink or you may miss it!",
+            "biome": "Ocean",
+            "name": "TurboTurtle",
+            "length": 2000
+        },
+        {
+            "coolFact": "They are very shy creatures, so make sure to whisper! \nShhhh\u2026",
+            "biome": "Grassland",
+            "name": "ZeonZebra",
+            "length": 5000
+        },
+        {
+            "coolFact": "It spends most of its time hunting BrunoBats, and it has x-ray vision!",
+            "biome": "Cave",
+            "name": "TomCat",
+            "length": 24
+        },
+        {
+            "coolFact": "He can't swim! :,(",
+            "biome": "Ocean",
+            "name": "Ted",
+            "length": 10000
+        },
+        {
+            "coolFact": "It loves to run!",
+            "biome": "Grassland",
+            "name": "LightspeedLion",
+            "length": 7519
+        },
+        {
+            "coolFact": "It loves to play in the water!",
+            "biome": "Ocean",
+            "name": "BobSquid",
+            "length": 3075
+        }
+    ]
+}
