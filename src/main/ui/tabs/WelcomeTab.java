@@ -15,7 +15,7 @@ import java.io.IOException;
 // Inspired by methods in the HomeTab class in the SmartHome application
 public class WelcomeTab extends Tab {
 
-    public static final Color WELCOME_COLOR = new Color(80, 80, 80);
+    public static final Color WELCOME_COLOR = new Color(80, 40, 140);
     private static final String WELCOME_GREETING_1 = "Hello, time traveler!! \\(^-^)/";
     private static final String WELCOME_GREETING_2 = "Welcome to the ZRA, the world’s first Zoo for Robotic Animals!";
 
